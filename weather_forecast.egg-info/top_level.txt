@@ -1,0 +1,8 @@
+config
+data
+database
+gui
+logic
+machine_learning
+migrations
+tests

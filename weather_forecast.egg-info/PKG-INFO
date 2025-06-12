@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: weather_forecast
+Version: 0.1.0
+Summary: Прогноз погоди
+Author-email: Костя Киндалюк <your@email.com>
+Requires-Dist: sqlalchemy
+Requires-Dist: mysqlclient
+Requires-Dist: alembic
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: ttkbootstrap
+Requires-Dist: pytest

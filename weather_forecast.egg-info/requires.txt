@@ -1,0 +1,8 @@
+sqlalchemy
+mysqlclient
+alembic
+pandas
+numpy
+scikit-learn
+ttkbootstrap
+pytest
