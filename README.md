@@ -27,6 +27,8 @@
 - TKinter(GUI)
 - Scikit Learn(машинне навчання)
 - Pickle
+- Pandas
+- Numpy
 
 #### Архітектура
 
